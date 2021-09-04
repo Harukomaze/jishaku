@@ -13,10 +13,10 @@ The jishaku core voice-related commands.
 
 import typing
 
-import discord
-import discord.opus
-import discord.voice_client
-from discord.ext import commands
+import disnake as discord
+import disnake.opus
+import disnake.voice_client
+from disnake.ext import commands
 
 from jishaku.features.baseclass import Feature
 
