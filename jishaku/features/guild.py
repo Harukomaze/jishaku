@@ -13,7 +13,7 @@ The jishaku guild-related commands.
 
 import typing
 
-import disnake
+import disnake as discord
 from disnake.ext import commands
 
 from jishaku.features.baseclass import Feature
